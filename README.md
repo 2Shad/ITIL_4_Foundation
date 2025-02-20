@@ -33,7 +33,7 @@ A **specific mix of services and products** sold to a particular customer. It co
 ### **Output vs. Outcome**  
 - **Output**: A **tangible or intangible deliverable** of an activity.  
 - **Outcome**: A **result** for a stakeholder that is enabled by one or more outputs.  
-  - Example: In football, an **output** is scoring a goal, while the **outcome** is winning the championship.  
+> 🔹 **Example:** In football, an **output** is scoring a goal, while the **outcome** is winning the championship.  
 
 ### **Cost**  
 - Can be **removed from the customer** as part of the value proposition (e.g., offering a cheaper alternative).  
@@ -158,3 +158,53 @@ While organizations can **influence the Four Dimensions**, they must also consid
 - These dimensions ensure all aspects of service management are considered.  
 - External **PESTLE factors** influence service delivery but cannot be controlled.  
 - Services must be designed and delivered while adapting to external conditions.
+---
+
+# **The Service Value System (SVS)**  
+
+## **Overview**  
+The **Service Value System (SVS)** defines how all components and activities of an organization **work together to create value**. It transforms **opportunity and demand** into **value** through the application of service management principles.  
+
+The **SVS consists of five key components**:  
+- **Guiding Principles**  
+- **Governance** *(Not covered in ITIL 4 Foundation exam, but a good governance framework like COBIT 2019 is recommended.)*  
+- **Service Value Chain**  
+- **Practices**  
+- **Continual Improvement**  
+
+---
+
+## **The Components of the Service Value System**  
+
+### **1. Guiding Principles**  
+- These are **universal recommendations** that help organizations make decisions at all levels.  
+- They **shape the mindset and behavior** of individuals and teams.  
+- Will be covered in detail later in the course.  
+
+### **2. Governance**  
+- Ensures that organizations operate within **defined policies and frameworks**.  
+- ITIL 4 does not prescribe a specific governance model but suggests adopting frameworks like **COBIT 2019**.  
+- **Not covered in the ITIL 4 Foundation exam**.  
+
+### **3. Service Value Chain**  
+- The **core operational model** of ITIL 4.  
+- A **flexible, interconnected set of activities** used to create and deliver services.  
+- Will be discussed in detail later.  
+
+### **4. Practices**  
+- **Sets of organizational resources** designed for performing work or achieving objectives.  
+- Expands on ITIL’s **best practices** for service management.  
+- Covered in later sections of the course.  
+
+### **5. Continual Improvement**  
+- Ensures that organizations are **always improving services and processes**.  
+- Uses structured methods to **analyze, measure, and enhance service quality**.  
+- Will be explored further in the course.  
+
+---
+
+## **How the Service Value System Works**  
+The **SVS transforms opportunity and demand into value** by applying service management principles and activities.  
+- **Opportunity & Demand**: The starting point, representing business needs or customer requests.  
+- **Service Value System Components**: The guiding principles, governance, service value chain, practices, and continual improvement work together to **process and refine** these inputs.  
+- **Value**: The final outcome, where services meet customer expectations and business goals.  
