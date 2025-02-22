@@ -208,3 +208,81 @@ The **SVS transforms opportunity and demand into value** by applying service man
 - **Opportunity & Demand**: The starting point, representing business needs or customer requests.  
 - **Service Value System Components**: The guiding principles, governance, service value chain, practices, and continual improvement work together to **process and refine** these inputs.  
 - **Value**: The final outcome, where services meet customer expectations and business goals.  
+---
+
+# **The Guiding Principles**  
+
+## **Overview**  
+The **Guiding Principles** are universal recommendations that help organizations make **decisions and take actions** in any circumstances, regardless of industry, goals, or operational model. These principles apply to any organization, service provider, or project—including the implementation of ITIL 4 itself.
+
+## **The Seven Guiding Principles**  
+
+### **1. Focus on Value**  
+- Everything an organization does should create **direct or indirect value** for stakeholders.  
+- Activities that do not contribute to value creation should be re-evaluated or eliminated.  
+- Avoid the **“we have always done it this way”** mentality—always question if an activity still brings value.  
+
+> 🔹 **Example:** A company reviews its internal processes and removes outdated, non-value-adding steps to improve efficiency.
+
+---
+
+### **2. Start Where You Are**  
+- Before making major changes, **assess existing resources, capabilities, and processes**.  
+- Avoid **reinventing the wheel**—reusing what already works saves time and effort.  
+- Conduct a **baseline assessment** to understand the current state before making improvements.  
+
+> 🔹 **Example:** Instead of building a new knowledge base from scratch, a support team consolidates and updates existing documentation.
+
+---
+
+### **3. Progress Iteratively with Feedback**  
+- Avoid **large, complex changes**—break work into **smaller, manageable steps**.  
+- Use an **iterative approach** to continuously improve based on **real-time feedback**.  
+- Frequent feedback from customers and stakeholders helps improve service quality and alignment with business needs.  
+
+> 🔹 **Example:** A development team delivers features in **small releases** rather than waiting months for a full product launch.
+
+---
+
+### **4. Collaborate and Promote Visibility**  
+- **Involve the right people** at the right time to ensure **informed decision-making**.  
+- **Transparency** and **open communication** improve teamwork and problem-solving.  
+- Use **visual tools (Kanban boards, dashboards, reports)** to increase visibility and alignment.  
+
+> 🔹 **Example:** A company adopts an **Agile** approach, using Kanban boards to track progress and ensure alignment across teams.
+
+---
+
+### **5. Think and Work Holistically**  
+- **Nothing operates in isolation**—all services, processes, and teams are interconnected.  
+- Consider the **bigger picture** and **how changes affect the entire system**, not just one area.  
+- Avoid **silo thinking**—ensure that improvements benefit the entire organization, not just one department.  
+
+> 🔹 **Example:** An IT team considering a software upgrade also evaluates how it will impact **security, compliance, and user experience**.
+
+---
+
+### **6. Keep It Simple and Practical**  
+- **Avoid unnecessary complexity**—use **only as many steps, tools, and processes** as needed to achieve the desired outcome.  
+- If something **does not add value**, **remove or simplify it**.  
+- Focus on **outcome-based thinking** rather than overcomplicating procedures.  
+
+> 🔹 **Example:** A support team **simplifies** its ticketing system by removing redundant fields, making it faster for agents and customers.
+
+---
+
+### **7. Optimize and Automate**  
+- **Maximize human effort** by automating repetitive tasks whenever possible.  
+- **Automation should follow optimization**—first, improve inefficient processes before automating them.  
+- **DevOps, AI, and automation tools** can free employees to focus on higher-value work.  
+
+> 🔹 **Example:** A company **automates password resets** through self-service, reducing workload for IT staff and improving response time.
+
+---
+
+## **Summary of The Guiding Principles**  
+- The **Guiding Principles** are **universally applicable** to any work or initiative.  
+- They represent **well-proven, good practices** used across industries.  
+- They are **not prescriptive**—organizations can apply them as needed.  
+- Each principle **can be used alone** but works better when applied in combination.  
+- They align **strongly with Lean-Agile thinking**, originating from principles like **Toyota Production System and Agile methodologies**.  
